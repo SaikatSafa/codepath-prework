@@ -1,3 +1,5 @@
 # codepath-prework
 Codepath Prework Project - Tip Calculator
-http://g.recordit.co/veBM3hnZ6N.gif
+<br>
+<img src="http://g.recordit.co/veBM3hnZ6N.gif" width=250>
+<br>
